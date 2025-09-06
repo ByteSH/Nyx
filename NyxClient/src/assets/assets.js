@@ -1,0 +1,1 @@
+import logo from './faicont.png'
